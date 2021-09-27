@@ -35,3 +35,7 @@ a
     font-weight: bold ;
     color:rgb(78, 173, 50);
 }
+a:hover{
+    text-decoration: underline;
+    color: rgb(55, 107, 107);
+}
